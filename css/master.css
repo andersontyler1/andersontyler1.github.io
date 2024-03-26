@@ -1,0 +1,66 @@
+/* Cascading stylesheet for the website */
+
+
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: blue;
+    text-decoration: none;
+  }
+
+  body {
+    background-color: whitesmoke;
+    color: black;
+    font-family: Calibri, Times New Roman, serif, Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+/* 
+  p {
+    font-family: Garamond;
+  } */
+
+  footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+   }
+
+  h2 {
+    color: #075AAB; /* 7, 90, 171 */
+    margin-bottom: 1.5rem;
+    margin-top: 3.5rem;
+   }
+
+  h3 {
+    margin-bottom: 0;
+    margin-top: 2rem;
+  }
+
+  h4 {
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  h5 {
+    margin-top: 0.5rem;
+  }
+
+  hr {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+  }
+
+
+  /* this controls how the bullet points in the resume page looks */
+  ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+  }
